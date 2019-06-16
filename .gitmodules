@@ -10,3 +10,7 @@
 	path = Zmakan-Technical-Solutions/l10n_qa_hr_zmakan
 	url = git@github.com:Zmakan-Technical-Solutions/l10n_qa_hr_zmakan.git
 	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/account_get_email"]
+	path = Zmakan-Technical-Solutions/account_get_email
+	url = git@github.com:Zmakan-Technical-Solutions/account_get_email.git
+	branch = 12.0
